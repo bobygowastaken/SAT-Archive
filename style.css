@@ -1,0 +1,23 @@
+body {
+  background: #ababab;
+  font-family: arial;
+  text-align: center;
+  color: whitesmoke;
+  cursor: url('images/mouse.png'),auto;
+}
+
+p {
+  color: whitesmoke;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
